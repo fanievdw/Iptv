@@ -1,1 +1,7 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="epg.i-cable.com" lang="zh" xmltv_id="AnimalPlanetSoutheastAsia.sg" site_id="757">動物星球頻道</channel>
+  <channel site="epg.i-cable.com" lang="zh" xmltv_id="AsianFoodNetwork.sg" site_id="717">亞洲美食頻道 [HD]</channel>
+  <channel site="epg.i-cable.com" lang="zh" xmltv_id="BBCEarthAsia.uk" site_id="721">BBC Earth</channel>
+  <channel site="epg.i-cable.com" lang="zh" xmltv_id="BBCLifestyleAsia.uk" site_id="760">BBC Lifestyle</channel>
+</channels>
