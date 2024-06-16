@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="AFRICA", M-Net Movies 3 
+#EXTINF:-1 tvg-logo="" tvg-id="mmovies3.za" group-title="AFRICA", M-Net Movies 3 
 http://jmrk.xyz:3050/live/sbeaver78@gmail.com/vdU3ztL2fz/608977.ts
 #EXTINF:-1 tvg-logo="" group-title="AFRICA", M-Net Movies 1 
 http://jmrk.xyz:3050/live/sbeaver78@gmail.com/vdU3ztL2fz/609025.ts
