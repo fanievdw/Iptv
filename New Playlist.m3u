@@ -1,11 +1,10 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="SABC1" tvg-name="SABC 1 (720p) [Geo-blocked]" group-title="SA", SABC1
+#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n444k6cj8q28n1ge"
+#EXTINF:-1 tvg-id="SABC1(src04).za" tvg-name="SABC1" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B1C.png" group-title="SA",SABC1
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
-#EXTINF:-1 tvg-id="SABC2" tvg-name="SABC 2 [Geo-blocked]" group-title="SA", SABC2
+#EXTINF:-1 tvg-id="SABC2(src04).za" tvg-name="SABC2" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B2C.png" group-title="SA",SABC2
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
-#EXTINF:-1 tvg-id="SABC3" tvg-name="SABC 3 [Geo-blocked]" group-title="SA", SABC3
+#EXTINF:-1 tvg-id="SABC3(src04).za" tvg-name="SABC3" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B3C.png" group-title="SA",SABC3
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
-
 
 
 
