@@ -1,10 +1,10 @@
 ##EXTM3U
 
-#EXTINF:-1 tvg-id="SABC1.za@SD" group-title="AFRICA",SABC 1 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="" group-title="AFRICA", SABC 1 
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
-#EXTINF:-1 tvg-id="SABC2.za@SD" group-title="AFRICA",SABC 2 [Geo-blocked]
+#EXTINF:-1 tvg-logo="" group-title="AFRICA", SABC 2
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
-#EXTINF:-1 tvg-id="SABC3.za@SD" group-title="AFRICA",SABC 3 [Geo-blocked]
+#EXTINF:-1 tvg-logo="" group-title="AFRICA", SABC 3
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
 
 
