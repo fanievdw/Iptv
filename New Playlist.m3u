@@ -5,6 +5,14 @@ https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABC3(src04).za" tvg-name="SABC3" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B3C.png" group-title="SA",SABC3
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="RUGBY(src04).za" tvg-name="SUPERSPORT RUGBY" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/A11.png" group-title="SA",SUPERSPORT RUGBY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/135954
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68051_dark_360w_270h.png" group-title="UK",Film4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+#EXTINF:-1 tvg-id="Bravo(East)(src09).us" tvg-name="Bravo East" tvg-logo="" group-title="USA",Bravo East
+https://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="FailArmy(src09).us" tvg-name="FailArmy" tvg-logo="" group-title="USA",FailArmy
+https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SABCSport.za" tvg-id="" tvg-name="SABC Sport" tvg-logo="https://i.ibb.co/hVnRYPt/sabcsport.jpg" group-title="SA",SABC Sport
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist.m3u8
