@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/fanievdw/Iptv/blob/b35eb4738974a44960b0b681de20b0dcdd448388/TV%20Guide.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanievdw/Iptv/refs/heads/main/TV%20Guide.xml"
 #EXTINF:-1 tvg-id="SABC1(src04).za" tvg-name="SABC1" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B1C.png" group-title="SA",SABC1
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABC2(src04).za" tvg-name="SABC2" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B2C.png" group-title="SA",SABC2
